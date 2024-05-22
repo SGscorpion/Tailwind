@@ -640,6 +640,10 @@ video {
   margin: auto;
 }
 
+.m-5 {
+  margin: 1.25rem;
+}
+
 .-my-12 {
   margin-top: -3rem;
   margin-bottom: -3rem;
@@ -674,6 +678,22 @@ video {
 
 .mt-\[200px\] {
   margin-top: 200px;
+}
+
+.mt-9 {
+  margin-top: 2.25rem;
+}
+
+.mt-12 {
+  margin-top: 3rem;
+}
+
+.mt-5 {
+  margin-top: 1.25rem;
+}
+
+.mt-10 {
+  margin-top: 2.5rem;
 }
 
 .flex {
@@ -712,6 +732,14 @@ video {
   height: 2.5rem;
 }
 
+.h-\[100px\] {
+  height: 100px;
+}
+
+.h-\[1000px\] {
+  height: 1000px;
+}
+
 .w-24 {
   width: 6rem;
 }
@@ -734,6 +762,50 @@ video {
 
 .w-screen {
   width: 100vw;
+}
+
+.w-\[300px\] {
+  width: 300px;
+}
+
+.w-\[\] {
+  width: ;
+}
+
+.w-\[3000px\] {
+  width: 3000px;
+}
+
+.w-\[4000px\] {
+  width: 4000px;
+}
+
+.w-\[5000px\] {
+  width: 5000px;
+}
+
+.w-\[000px\] {
+  width: 000px;
+}
+
+.w-\[3000000px\] {
+  width: 3000000px;
+}
+
+.w-\[500px\] {
+  width: 500px;
+}
+
+.w-\[2000px\] {
+  width: 2000px;
+}
+
+.w-\[1000px\] {
+  width: 1000px;
+}
+
+.w-\[00px\] {
+  width: 00px;
 }
 
 .grid-cols-12 {
@@ -782,6 +854,10 @@ video {
 
 .gap-5 {
   gap: 1.25rem;
+}
+
+.gap-10 {
+  gap: 2.5rem;
 }
 
 .space-y-3 > :not([hidden]) ~ :not([hidden]) {
