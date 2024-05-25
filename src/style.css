@@ -4,13 +4,16 @@
 * {
     font-family: "Brygada 1918", serif;
 }
+
 .text{
     font-family: 'Courier New', Courier, monospace;
     color: rgb(77,80,34);
 }
+
 .text1{
     font-family: cursive;
 }
+
 .bold{
     font-family: "Poetsen One", sans-serif;;
 }
